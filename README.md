@@ -10,9 +10,10 @@ My name is Carlos and I'm a fullstack developer. With technology as a hobby, I h
 When I'm not coding, I like to take photos of pets and landscapes.
 </p>
 <div align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-carlosbdez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-bdez/)](https://www.linkedin.com/in/carlos-bdez/)
-  [![Gmail Badge](https://img.shields.io/badge/-carlos.bdez.esc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.bdez.esc@gmail.com)](mailto:carlos.bdez.esc@gmail.com)
+  
+  [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bermudev/)](https://github.com/bermudev/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-bdez/)](https://www.linkedin.com/in/carlos-bdez/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.bdez.esc@gmail.com)](mailto:carlos.bdez.esc@gmail.com)
 </div>
 <br>
 
