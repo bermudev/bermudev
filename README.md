@@ -14,15 +14,16 @@ When I'm not coding, I like to take photos of pets and landscapes.
   [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bermudev/)](https://github.com/bermudev/)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-bdez/)](https://www.linkedin.com/in/carlos-bdez/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.bdez.esc@gmail.com)](mailto:carlos.bdez.esc@gmail.com)
+  [![Personal Blog](https://img.shields.io/badge/-Personal%20Blog-lightgrey?style=flat-square&logo=Hugo&logoColor=white&link=https://bermu.dev/)](https://bermu.dev/)
 </div>
 <br>
 
 ## More about Me: 
 
 - 🏦 I graduated in Industrial Engineering in Seville and I am working remotely for Babel.
-- 🔭 Personally, I’m currently working on an API for a dog shelter. 
+- 🔭 Currently, I'm learning how to build scalable and secure backend systems using Python.
 - 🌱 I love to learn about new technologies and apply my knowledge to personal projects.
-- ❓ Ask me about anything related to MEAN stack, Python, Linux and related technologies. 
+- ❓ Ask me about anything related to Python, Linux and related technologies. 
 - 📖 I enjoy reading and I am a big fan of Brandon Sanderson.
 - ⚡ Fun fact: I love coffee and I love trying new ways to brew coffee.
   
@@ -41,7 +42,6 @@ When I'm not coding, I like to take photos of pets and landscapes.
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="42" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="42" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="42" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="42" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -49,9 +49,6 @@ When I'm not coding, I like to take photos of pets and landscapes.
 
 ### Backend  
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="42" /></a> 
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="42" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="42" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="42" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="42" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="42" /></a>  
