@@ -4,7 +4,7 @@
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 </p>
 <p align="center">
-My name is Carlos and I'm a fullstack developer. With technology as a hobby, I have been learning and applying my programming skills in personal projects for more than ten years, learning along the way about cybersecurity, microservices and many other topics.
+My name is Carlos and I'm a fullstack developer. With technology as a hobby, I have been in the industry professionally for two years and I have been learning and applying my programming skills in personal projects for more than ten years, learning along the way about artificial intelligence, microservices and many other topics.
 </p>
 <p align="center">
 When I'm not coding, I like to take photos of pets and landscapes.
@@ -20,10 +20,11 @@ When I'm not coding, I like to take photos of pets and landscapes.
 
 ## More about Me: 
 <pre>
-- 🏦 I graduated in Industrial Engineering in Seville and I am working remotely for Babel.
+- 🏦 I have a degree in Industrial Engineering from the University of Seville.
+- 👨‍💻 I work remotely as a backend engineer and data scientist for Babel.
 - 🔭 Currently, I'm learning how to build scalable and secure backend systems using Python.
 - 🌱 I love to learn about new technologies and apply my knowledge to personal projects.
-- ❓ Ask me about anything related to Python, Linux and related technologies. 
+- ❓ Ask me about anything related to Python, Machine Learning and related technologies. 
 - 📖 I enjoy reading and I am a big fan of Brandon Sanderson.
 - ⚡ Fun fact: I love coffee and I love trying new ways to brew coffee.
 </pre></pre>
@@ -69,4 +70,5 @@ style=flat-square&logo
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript%20-fcdc00.svg?style=flat-square&logo=javascript&logoColor=black&link=https://github.com/bermudev/)](https://github.com/bermudev/)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://github.com/bermudev/)](https://github.com/bermudev/)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&link=https://github.com/bermudev/)](https://github.com/bermudev/)
+  
 </div>
