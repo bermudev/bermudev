@@ -19,55 +19,50 @@ When I'm not coding, I like to take photos of pets and landscapes.
 <br>
 
 ## More about Me: 
-
+<pre>
 - 🏦 I graduated in Industrial Engineering in Seville and I am working remotely for Babel.
 - 🔭 Currently, I'm learning how to build scalable and secure backend systems using Python.
 - 🌱 I love to learn about new technologies and apply my knowledge to personal projects.
 - ❓ Ask me about anything related to Python, Linux and related technologies. 
 - 📖 I enjoy reading and I am a big fan of Brandon Sanderson.
 - ⚡ Fun fact: I love coffee and I love trying new ways to brew coffee.
-  
+</pre></pre>
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Languages and Tools
 
+<!--
+style=flat-square&logo
+<h3 align="center">Frameworks and Libraries</h3>
 
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+    <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
+    <img alt="Colab" src="https://img.shields.io/badge/Colab-FE7A16.svg?style=flat-square&logo=google-colab&logoColor=white">    
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=flat-square&logo=github&logoColor=white">
+-->
 
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="42" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="42" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="42" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="42" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="42" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="42" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="42" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="42" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="42" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="42" /></a>  
-</div>
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="42" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="42" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="42" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="42" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="42" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
+<p align="center">
+    <!-- BackEnd -->
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-326b9b.svg?style=flat-square&logo=python&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">    
+    <img alt="DjangoREST" src="https://img.shields.io/badge/Django-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray">    
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> 
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-49b230.svg?style=flat-square&logo=mongodb&logoColor=white">
+    <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
+    <img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white">
+    <!-- Machine Learning -->
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=flat-square&logo=pandas&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=flat-square&logo=numpy&logoColor=white">
+    <!-- Tools -->
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
+    <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat-square&logo=git&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white">
+    <!-- FrontEnd -->
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-fcdc00.svg?style=flat-square&logo=javascript&logoColor=black">
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
