@@ -11,10 +11,11 @@ When I'm not coding, I like to take photos of pets and landscapes.
 </p>
 <div align="center">
   
-  [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bermudev/)](https://github.com/bermudev/)
+  [![Github Badge](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&link=https://github.com/bermudev/)](https://github.com/bermudev/)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-bdez/)](https://www.linkedin.com/in/carlos-bdez/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.bdez.esc@gmail.com)](mailto:carlos.bdez.esc@gmail.com)
-  [![Personal Blog](https://img.shields.io/badge/-Personal%20Blog-lightgrey?style=flat-square&logo=Hugo&logoColor=white&link=https://bermu.dev/)](https://bermu.dev/)
+  [![Personal Blog](https://img.shields.io/badge/-Personal%20Blog-4c00b0?style=flat-square&logo=astro&link=https://bermu.dev/)](https://bermu.dev/)
+  
 </div>
 
 
