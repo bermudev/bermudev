@@ -59,6 +59,7 @@ Check the badges
  
 <!-- Tools -->
 [![Docker Badge](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white&link=https://github.com/bermudev/)](https://github.com/bermudev/)
+[![PyCharm Badge](https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green&link=https://github.com/bermudev/)](https://github.com/bermudev/)
 [![VSCode Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=vscodium&logoColor=ffffff&link=https://github.com/bermudev/)](https://github.com/bermudev/)
 [![Git Badge](https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat-square&logo=git&logoColor=white&link=https://github.com/bermudev/)](https://github.com/bermudev/)
 [![Bash Badge](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white&link=https://github.com/bermudev/)](https://github.com/bermudev/)
