@@ -4,7 +4,7 @@
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 </p>
 <p align="center">
-My name is Carlos and I'm a Backend Engineer focused in Python. With technology as a hobby, I have been in the industry professionally for more than three years and I have been learning and applying my programming skills in personal projects for more than fifteen years, learning along the way about artificial intelligence, microservices and many other topics.
+My name is Carlos and I'm a Backend Engineer focused in Python. With technology as a hobby, I have been in the industry professionally for five years and I have been learning and applying my programming skills in personal projects for more than fifteen years, learning along the way about artificial intelligence, microservices and many other topics.
 </p>
 <p align="center">
 When I'm not coding, I like to take photos of pets and landscapes.
