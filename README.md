@@ -34,7 +34,9 @@ When I'm not coding, I like to take photos of pets and landscapes.
 
 ## Featured Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Debugging a Stubborn Zigbee Water Leak Sensor](https://bermu.dev/posts/2026/debugging-a-stubborn-zigbee-water-leak-sensor/) · Mar 11, 2026 
+- [Moving from Pi-hole to Technitium DNS](https://bermu.dev/posts/2025/from-pi-hole-to-technitium-dns/) · Jun 30, 2025 
+- [Creating a Chess Bot to Beat My FIDE Master Friend](https://bermu.dev/posts/2024/creating-a-chess-bot-to-beat-my-fide-master-friend/) · May 5, 2024 
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts on bermu.dev](https://bermu.dev/)
