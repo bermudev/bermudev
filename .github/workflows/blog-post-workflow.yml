@@ -17,5 +17,6 @@ jobs:
         with:
           feed_list: "https://bermu.dev/featured.xml"
           max_post_count: 3
-          template: "$newline- **[$title]($url)** · $date<br><sub>$description</sub>"
+          template: "- **[$title]($url)** · $date<br><sub>$description</sub>$newline"
+          tag_post_pre_newline: true
           date_format: "mmm d, yyyy"
