@@ -97,5 +97,3 @@ I write at [bermu.dev](https://bermu.dev/) about software, hardware, self-hostin
 - **[Creating a Chess Bot to Beat My FIDE Master Friend](https://bermu.dev/posts/2024/creating-a-chess-bot-to-beat-my-fide-master-friend/)** · May 5, 2024<br><sub>I created a bot using OpenCV and Stockfish to play chess racing puzzles to beat my FIDE master friend.</sub>
 
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [More of my thoughts on bermu.dev](https://bermu.dev/)
