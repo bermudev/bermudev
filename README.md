@@ -89,7 +89,7 @@ Check the badges
 
 
 ## Featured Posts
-I write at bermu.dev about software, hardware, self-hosting and whatever else sparks my curiosity. Here are some of my favourite posts:
+I write at [bermu.dev](https://bermu.dev/) about software, hardware, self-hosting and whatever else sparks my curiosity. Here are some of my favourite posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Debugging a Stubborn Zigbee Water Leak Sensor](https://bermu.dev/posts/2026/debugging-a-stubborn-zigbee-water-leak-sensor/) · Mar 11, 2026 
@@ -97,4 +97,4 @@ I write at bermu.dev about software, hardware, self-hosting and whatever else sp
 - [Creating a Chess Bot to Beat My FIDE Master Friend](https://bermu.dev/posts/2024/creating-a-chess-bot-to-beat-my-fide-master-friend/) · May 5, 2024 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More posts on bermu.dev](https://bermu.dev/)
+➡️ [More of my thoughts on bermu.dev](https://bermu.dev/)
