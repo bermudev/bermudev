@@ -91,9 +91,11 @@ Check the badges
 ## Featured Posts
 I write at [bermu.dev](https://bermu.dev/) about software, hardware, self-hosting and whatever else sparks my curiosity. Here are some of my favourite posts:
 
-<!-- BLOG-POST-LIST:START -->- [Debugging a Stubborn Zigbee Water Leak Sensor](https://bermu.dev/posts/2026/debugging-a-stubborn-zigbee-water-leak-sensor/) · Mar 11, 2026 
-- [Moving from Pi-hole to Technitium DNS](https://bermu.dev/posts/2025/from-pi-hole-to-technitium-dns/) · Jun 30, 2025 
-- [Creating a Chess Bot to Beat My FIDE Master Friend](https://bermu.dev/posts/2024/creating-a-chess-bot-to-beat-my-fide-master-friend/) · May 5, 2024 
+<!-- BLOG-POST-LIST:START -->
+- **[Debugging a Stubborn Zigbee Water Leak Sensor](https://bermu.dev/posts/2026/debugging-a-stubborn-zigbee-water-leak-sensor/)** · Mar 11, 2026<br><sub>How I traced a faulty HOBEIAN water leak sensor to a likely internal connection problem.</sub>
+- **[Moving from Pi-hole to Technitium DNS](https://bermu.dev/posts/2025/from-pi-hole-to-technitium-dns/)** · Jun 30, 2025<br><sub>Moving from Pi-hole to Technitium DNS Server on a home network with OpenWrt, and what I learned along the way.</sub>
+- **[Creating a Chess Bot to Beat My FIDE Master Friend](https://bermu.dev/posts/2024/creating-a-chess-bot-to-beat-my-fide-master-friend/)** · May 5, 2024<br><sub>I created a bot using OpenCV and Stockfish to play chess racing puzzles to beat my FIDE master friend.</sub>
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More of my thoughts on bermu.dev](https://bermu.dev/)
