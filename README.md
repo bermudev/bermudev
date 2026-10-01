@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Carlos 👋</h1>
-<p align="center"><b>Software Engineer · Python · API · MCP · LLMs</b></p>
+<p align="center"><b>Software Engineer | Python · API · MCP · LLMs</b></p>
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200">
@@ -8,7 +8,7 @@
 My name is Carlos and I'm a Software Engineer focused on Python. I've been working professionally in the industry for five years, and I've been building personal projects for more than fifteen, learning along the way about artificial intelligence, microservices and many other topics.
 </p>
 <p align="center">
-When I'm not coding, I like to take photos of pets and landscapes.
+When I'm not coding, I like to write and take photos of pets and landscapes.
 </p>
 <div align="center">
   
@@ -30,16 +30,6 @@ When I'm not coding, I like to take photos of pets and landscapes.
 - 📖 I enjoy reading and I am a big fan of Brandon Sanderson.
 - ⚡ Fun fact: I love coffee and I love trying new ways to brew coffee.
 </pre>
-
-
-## Featured Posts
-
-<!-- BLOG-POST-LIST:START -->- [Debugging a Stubborn Zigbee Water Leak Sensor](https://bermu.dev/posts/2026/debugging-a-stubborn-zigbee-water-leak-sensor/) · Mar 11, 2026 
-- [Moving from Pi-hole to Technitium DNS](https://bermu.dev/posts/2025/from-pi-hole-to-technitium-dns/) · Jun 30, 2025 
-- [Creating a Chess Bot to Beat My FIDE Master Friend](https://bermu.dev/posts/2024/creating-a-chess-bot-to-beat-my-fide-master-friend/) · May 5, 2024 
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More posts on bermu.dev](https://bermu.dev/)
 
 
 ## Languages and Tools
@@ -96,3 +86,15 @@ Check the badges
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
   
 </div>
+
+
+## Featured Posts
+I write at bermu.dev about software, hardware, self-hosting and whatever else sparks my curiosity. Here are some of my favourite posts:
+
+<!-- BLOG-POST-LIST:START -->
+- [Debugging a Stubborn Zigbee Water Leak Sensor](https://bermu.dev/posts/2026/debugging-a-stubborn-zigbee-water-leak-sensor/) · Mar 11, 2026 
+- [Moving from Pi-hole to Technitium DNS](https://bermu.dev/posts/2025/from-pi-hole-to-technitium-dns/) · Jun 30, 2025 
+- [Creating a Chess Bot to Beat My FIDE Master Friend](https://bermu.dev/posts/2024/creating-a-chess-bot-to-beat-my-fide-master-friend/) · May 5, 2024 
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More posts on bermu.dev](https://bermu.dev/)
